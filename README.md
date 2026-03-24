@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Ravi Shankar 👋
 
-<!--
-**ravishankarle/ravishankarle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 MCA Student
+- 💻 Web Developer
+- 🌱 Currently learning Web Development & Software Development
+- 🔧 Working with HTML, CSS, JavaScript, PHP, Python, MySQL
+- 🚀 I love building web applications and real world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=ravishankarle&color=blue)
+
+---
+
+## 🚀 Skills
+
+### 💻 Programming Languages
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+## 🛠 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📂 Projects
+- 🏨 Hotel Booking System (PHP & MySQL)
+- 🏥 Medical Website(medicine expiry system)
+- 🔐 Login & Registration System
+- 🛒 E-commerce Website
+- 📅 Event Management System (Django)
+- 🌐 Personal Portfolio Website
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravishankarle&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravishankarle&layout=compact&theme=dark)
+
+---
+
+## 📈 Contribution Graph
+[![Ravi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravishankarle&theme=github-dark)](https://github.com/ravishankarle)
+
+---
+
+## 🌐 Portfolio Website
+🌍 My Portfolio: https://your-portfolio-link.com
+
+---
+
+## 🔗 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ravishankarle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/)
+
+---
+
+⭐ From [ravishankarle](https://github.com/ravishankarle)

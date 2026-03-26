@@ -66,6 +66,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/)
+[![whatsapp](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/)
 
 ---
 

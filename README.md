@@ -1,10 +1,10 @@
 # Hi, I'm Ravi Shankar 👋
 
 ## 👨‍💻 About Me
-- 🎓 MCA Student
+- 🎓 MCA Completed
 - 💻 Web Developer
 - 🌱 Currently learning Web Development & Software Development
-- 🔧 Working with HTML, CSS, JavaScript, PHP, Python, MySQL
+- 🔧 Working with HTML, CSS, JavaScript, PHP, Python, MySQL, Bootstrap 
 - 🚀 I love building web applications and real world projects
 
 ---
@@ -23,6 +23,7 @@
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap)
 
 ---
 

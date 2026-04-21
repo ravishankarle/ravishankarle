@@ -32,6 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Antigrivity](https://img.shields.io/badge/Antigrivity-blue&yellow?style=for-the-badge&logo=antigrivity)
 
 ---
 

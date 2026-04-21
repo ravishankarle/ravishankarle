@@ -18,7 +18,7 @@
 
 ### 💻 Programming Languages
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/CSS3-pink?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
